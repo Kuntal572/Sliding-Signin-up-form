@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signin signup form sliding up down", "Signin signup form sliding up down\Signin signup form sliding up down.csproj", "{B1FE128F-73EB-4B21-A6FC-31BC57F57B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1FE128F-73EB-4B21-A6FC-31BC57F57B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FE128F-73EB-4B21-A6FC-31BC57F57B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FE128F-73EB-4B21-A6FC-31BC57F57B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FE128F-73EB-4B21-A6FC-31BC57F57B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25EE128-6783-4317-B686-92D30F8EB3CC}
+	EndGlobalSection
+EndGlobal
